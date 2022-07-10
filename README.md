@@ -2,7 +2,9 @@
 
 Analyzing Sentiment from Text using Azure Functions.
 
-Scraping apps review data of Food ordering app from Google Play Store by Python with library Google-Play-Scraper.Using Azure Text Analytics to perform sentiment analysis for reviews content.
+Scraping apps review data of Food ordering app from Google Play Store by Python with library Google-Play-Scraper.
+
+Using Azure Text Analytics to perform sentiment analysis for reviews content.
 
 Visualizing the sentiment distribution reviews content.
 
